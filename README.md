@@ -26,7 +26,7 @@ This is a chat bot built with React.js, Node.js and Express.js, integrated with 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tyleroneil72/react-chat-bot.git
+git clone https://github.com/blisstech214/react-bot.git
 cd react-chat-bot
 ```
 
